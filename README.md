@@ -27,9 +27,9 @@ Chart Type: Donut Chart
 
 2.Total Sales by Item Type:
 
-Objective: Identify the performance of different item types in terms of total sales.
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-Chart Type: Bar Chart.
+-Objective: Identify the performance of different item types in terms of total sales.
+-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+-Chart Type: Bar Chart.
 
 3.Total Sales by Outlet Establishment:
 
@@ -58,25 +58,31 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 Chart Type: Matrix Card. 
 
 # Key Features
-Total Sales & Average Sales:
+1.Total Sales & Average Sales:
 
 Displays the total sales amount and average sales per transaction.
-Number of Items & Average Rating:
+
+2.Number of Items & Average Rating:
 
 Shows the total number of items sold and the average customer rating.
-Item Type Breakdown:
+
+3.Item Type Breakdown:
 
 Visual representation of sales distribution across different item types, such as fruits, snacks, household items, and more.
-Fat Content Analysis:
+
+4.Fat Content Analysis:
 
 Breakdown of sales based on fat content (Low Fat, Regular, High).
-Outlet Analysis:
+
+5.Outlet Analysis:
 
 Insights into sales by outlet location, establishment year, outlet size, and type.
-Filters:
+
+6.Filters:
 
 Custom filters for outlet location type, outlet size, and item type, allowing users to drill down into specific segments.
-Dynamic Visualizations:
+
+7.Dynamic Visualizations:
 
 Bar charts, pie charts, and line graphs providing a comprehensive view of sales trends and patterns.
 
