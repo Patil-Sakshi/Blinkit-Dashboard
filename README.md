@@ -19,77 +19,79 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 **Chart's Requirements**
 
-1.Total Sales by Fat Content:
+### 1.Total Sales by Fat Content:
 
-Objective: Analyze the impact of fat content on total sales.
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-Chart Type: Donut Chart
++ Objective: Analyze the impact of fat content on total sales.
 
-2.Total Sales by Item Type:
++ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Objective: Identify the performance of different item types in terms of total sales.
++ Chart Type: Donut Chart
 
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+### 2.Total Sales by Item Type:
 
-Chart Type: Bar Chart.
+* Objective: Identify the performance of different item types in terms of total sales.
 
-3.Total Sales by Outlet Establishment:
+* Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Objective: Evaluate how the age or type of outlet establishment influences total sales.
+* Chart Type: Bar Chart.
 
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+### 3.Total Sales by Outlet Establishment:
 
-Chart Type: Line Chart. 
+* Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
-4.Total Sales by Outlet Establishment:
+* Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Objective: Evaluate how the age or type of outlet establishment influences total sales.
+* Chart Type: Line Chart. 
 
-Chart Type: Line Chart. 
+### 4.Total Sales by Outlet Establishment:
 
-5.Sales by Outlet Size:
+* Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
-Objective: Analyze the correlation between outlet size and total sales.
+* Chart Type: Line Chart. 
 
-Chart Type: Donut/Pie Chart.
+### 5.Sales by Outlet Size:
 
-6.Sales by Outlet Location:
+* Objective: Analyze the correlation between outlet size and total sales.
 
-Objective: Assess the geographic distribution of sales across different locations.
-Chart Type: Funnel Map. 
+* Chart Type: Donut/Pie Chart.
 
-7.All Metrics by Outlet Type:
+### 6.Sales by Outlet Location:
 
-Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+* Objective: Assess the geographic distribution of sales across different locations.
+* Chart Type: Funnel Map. 
 
-Chart Type: Matrix Card. 
+### 7.All Metrics by Outlet Type:
+
+* Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+
+* Chart Type: Matrix Card. 
 
 # Key Features
-1.Total Sales & Average Sales:
+### 1.Total Sales & Average Sales:
 
-Displays the total sales amount and average sales per transaction.
+* Displays the total sales amount and average sales per transaction.
 
-2.Number of Items & Average Rating:
+### 2.Number of Items & Average Rating:
 
-Shows the total number of items sold and the average customer rating.
+* Shows the total number of items sold and the average customer rating.
 
-3.Item Type Breakdown:
+### 3.Item Type Breakdown:
 
-Visual representation of sales distribution across different item types, such as fruits, snacks, household items, and more.
+* Visual representation of sales distribution across different item types, such as fruits, snacks, household items, and more.
 
-4.Fat Content Analysis:
+### 4.Fat Content Analysis:
 
-Breakdown of sales based on fat content (Low Fat, Regular, High).
+* Breakdown of sales based on fat content (Low Fat, Regular, High).
 
-5.Outlet Analysis:
+### 5.Outlet Analysis:
 
-Insights into sales by outlet location, establishment year, outlet size, and type.
+* Insights into sales by outlet location, establishment year, outlet size, and type.
 
-6.Filters:
+### 6.Filters:
 
-Custom filters for outlet location type, outlet size, and item type, allowing users to drill down into specific segments.
+* Custom filters for outlet location type, outlet size, and item type, allowing users to drill down into specific segments.
 
-7.Dynamic Visualizations:
+### 7.Dynamic Visualizations:
 
-Bar charts, pie charts, and line graphs providing a comprehensive view of sales trends and patterns.
+* Bar charts, pie charts, and line graphs providing a comprehensive view of sales trends and patterns.
 
