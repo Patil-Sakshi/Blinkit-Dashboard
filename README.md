@@ -1,5 +1,8 @@
 # Blinkit-Dashboard
 
+![Uploading Screenshot 2025-01-04 153146.png…]()
+
+
 **Overview**
 This Power BI Sales Analysis Dashboard was developed for Talabat to provide an interactive and insightful view of sales data. The dashboard offers various filters and visualizations that allow users to explore total sales, average sales, item categories, outlet locations, and other key metrics.
 
