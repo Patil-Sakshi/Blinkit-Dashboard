@@ -1,6 +1,7 @@
 # Blinkit-Dashboard
 
-![Screenshot 2025-01-04 153146](https://github.com/user-attachments/assets/9971681d-6d0d-4c53-851f-475f83ef3bfc)
+![Screenshot 2025-01-04 190109](https://github.com/user-attachments/assets/36edfefd-6857-437a-8e27-2264178989f6)
+
 
 
 
